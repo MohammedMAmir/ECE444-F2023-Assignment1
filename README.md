@@ -1,3 +1,3 @@
 # Mohammed Amir
 
-![alt text](file:///homes/a/amirmoh4/Downloads/Screenshot%202023-09-08%20at%2022-10-48%20MohammedMAmir_ECE444-F2023-Assignment1.png![image](https://github.com/MohammedMAmir/ECE444-F2023-Assignment1/assets/83556373/a968469a-bc7b-40f5-b3b3-5e0f8e09faea))
+![Screenshot 2023-09-08 at 22-10-48 MohammedMAmir_ECE444-F2023-Assignment1](https://github.com/MohammedMAmir/ECE444-F2023-Assignment1/assets/83556373/f9a7c0a6-3c73-44fa-8419-4a38fe7630d0)
