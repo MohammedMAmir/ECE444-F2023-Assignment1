@@ -12,12 +12,12 @@ class utils:
 
             return reversed
         else:
-            return None
+            return 0
         
     def formatter(num):
         if isinstance(num, int):
             return([bin(num), oct(num)])
         else:
-            return None
+            return 0
 
 
