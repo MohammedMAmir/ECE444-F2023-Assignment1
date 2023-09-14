@@ -4,3 +4,5 @@
 ![Screenshot of merge](merge.png)
 ![Merge conflict resolution](merge-conflict.png)
 ![Successful merge](conflict-resolution.png)
+![Utils commit](utils_commit.png)
+![Utils Test commit](utils_test_commit.png)
