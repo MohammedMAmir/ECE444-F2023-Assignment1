@@ -6,3 +6,9 @@
 ![Successful merge](conflict-resolution.png)
 ![Utils commit](utils_commit.png)
 ![Utils Test commit](utils_test_commit.png)
+![Commits 1 and 2](commits1and2.png)
+![Rebase Log](rebaselog.png)
+![Commits 3 and 4](commits3and4.png)
+![Develop log and rebase](developandrebase.png)
+![Final rebase output](finaldeveloplog.png)
+
